@@ -109,6 +109,9 @@ only satisfaction.
     </tr>
 </table>
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=q1q0)](https://github.com/q1q0/github-readme-stats)
+
+
 
 #### My projects:
 
